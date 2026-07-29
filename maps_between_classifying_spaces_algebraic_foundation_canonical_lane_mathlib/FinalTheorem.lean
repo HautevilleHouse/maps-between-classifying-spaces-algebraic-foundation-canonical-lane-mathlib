@@ -1,0 +1,9 @@
+import maps_between_classifying_spaces_algebraic_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace maps_between_classifying_spaces_algebraic_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end maps_between_classifying_spaces_algebraic_foundation_canonical_lane_mathlib
+end HautevilleHouse
